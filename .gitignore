@@ -1,0 +1,6 @@
+# ignore dataset and checkpoints
+datasets/
+checkpoints/
+
+# temporally ignore MOME baseline
+MoME/
